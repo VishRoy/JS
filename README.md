@@ -1,1 +1,1 @@
-# Vanilla JS Projects
+# Kanban Board
