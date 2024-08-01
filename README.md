@@ -1,1 +1,1 @@
-# Vanilla JS Projects
+# JS Concepts
