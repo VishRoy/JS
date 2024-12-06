@@ -5,3 +5,5 @@
   console.log(numbers.reduce((acc, item) => acc += item, 0))
   output = 15
 ```
+
+2. **Calculate Frequency of Each Word in an Array**
