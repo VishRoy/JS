@@ -21,11 +21,7 @@ let freq = words.reduce((acc, item) => {
 }, {})
 
 console.log(freq)
- Output : {
-  "hello": 2,
-  "world": 1,
-  "coding": 1
-}
+Output : { "hello": 2, "world": 1, "coding": 1}
 
 ```
 
