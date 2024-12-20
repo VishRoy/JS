@@ -182,4 +182,6 @@ Output: { name: 'Alice', age: 25, city: 'Wonderland' }
         { id: 2, name: 'Bob' },
         { id: 3, name: 'Charlie' },
     ];
+
+    Output : { 1: 'Alice', 2: 'Bob', 3: 'Charlie' }
     ```
